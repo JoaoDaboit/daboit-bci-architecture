@@ -2,12 +2,12 @@
 
 “Copyright (C) 2026 João Paulo Daboit. Todos os direitos reservados.”
 
-======================================================================
+=======================
 PROJETO DE ARQUITETURA NEURAL BIDIRECIONAL E INFRAESTRUTURA DE TELECOMUNICAÇÃO
 CÓDIGO DO PROJETO: DABOIT-BCI-1
 AUTOR: JOÃO PAULO DABOIT
 DATA DE CRIAÇÃO: JUNHO DE 2026
-======================================================================
+=======================
 
 1. RESUMO EXECUTIVO
 Este documento descreve a arquitetura conceitual de uma Interface Cérebro-Computador (BCI) bidirecional de alta densidade, isolamento térmico avançado e o respectivo ecossistema de infraestrutura e monetização de dados. O sistema resolve o problema do superaquecimento biológico através da segregação de hardware e propõe um modelo de negócios verticalizado de telecomunicação por assinatura.
@@ -101,7 +101,8 @@ if __name__ == "__main__":
     rodar_sistema()
 
 
-======================================================================
-FIM DO DOCUMENTO - DIREITOS AUTORAIS RESERVADOS À JOÃO PAULO DABOIT
-======================================================================
 
+=======================
+FIM DO DOCUMENTO - DIREITOS AUTORAIS RESERVADOS À JOÃO PAULO DABOIT
+
+=======================
