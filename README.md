@@ -3,10 +3,12 @@
 “Copyright (C) 2026 João Paulo Daboit. Todos os direitos reservados.”
 
 =======================
+
 PROJETO DE ARQUITETURA NEURAL BIDIRECIONAL E INFRAESTRUTURA DE TELECOMUNICAÇÃO
 CÓDIGO DO PROJETO: DABOIT-BCI-1
 AUTOR: JOÃO PAULO DABOIT
 DATA DE CRIAÇÃO: JUNHO DE 2026
+
 =======================
 
 1. RESUMO EXECUTIVO
@@ -103,6 +105,6 @@ if __name__ == "__main__":
 
 
 =======================
-FIM DO DOCUMENTO - DIREITOS AUTORAIS RESERVADOS À JOÃO PAULO DABOIT
 
+FIM DO DOCUMENTO - DIREITOS AUTORAIS RESERVADOS À JOÃO PAULO DABOIT
 =======================
