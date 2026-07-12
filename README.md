@@ -2,7 +2,7 @@
 
 “Copyright (C) 2026 João Paulo Daboit. Todos os direitos reservados.”
 
-====================================================================
+==================================================================== 
 PROJETO DE ARQUITETURA NEURAL BIDIRECIONAL E INFRAESTRUTURA DE TELECOMUNICAÇÃO
 CÓDIGO DO PROJETO: DABOIT-BCI-1 (VERSÃO REVISADA - INTEGRAÇÃO SINESTÉSICA TOTAL)
 AUTOR: JOÃO PAULO DABOIT
@@ -128,6 +128,6 @@ def simular_experiencia_total():
 if __name__ == "__main__":
     simular_experiencia_total()
 
-====================================================================
+==================================================================== 
 FIM DO DOCUMENTO - DIREITOS AUTORAIS RESERVADOS À JOÃO PAULO DABOIT
 
