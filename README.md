@@ -131,7 +131,7 @@ if __name__ == "__main__":
     simular_experiencia_total()
 ```
 
-=================================================
+================================================
  
 FIM DO DOCUMENTO - DIREITOS AUTORAIS RESERVADOS À JOÃO PAULO DABOIT
 
