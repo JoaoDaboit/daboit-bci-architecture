@@ -64,7 +64,7 @@ A operação mantém-se dividida em duas corporações controladas por uma estru
 
 ​REGISTRO DE CÓDIGO FONTE (SIMULADOR DE MATRIZ DE ENDEREÇAMENTO SINESTÉSICO)
 
-
+```
 import time
 import os
 import random
