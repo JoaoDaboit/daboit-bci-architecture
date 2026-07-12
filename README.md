@@ -31,7 +31,7 @@ Este documento expande a arquitetura conceitual da Interface Cérebro-Computador
 
 ​Geometria da Matriz: Malha contínua de eletrodos dispostos em formato hexagonal para cobertura máxima de área superficial sem vãos mortos. Nesta versão, a malha é expandida para cobrir todo o córtex cerebral, mapeando lóbulos específicos para cada modalidade sensorial (excluindo apenas a área motor-frontal mais abstrata).
 
-​Substrato de Condução: Hexágonos baseados em monocamadas de grafeno, utilizando supercondutividade de baixa impedância para garantir geração de calor zero (não-térmica, 0.0) no tecido cerebral durante o disparo massivo de estímulos.
+​Substrato de Condução: Hexágonos baseados em monocamadas de grafeno, utilizando supercondutividade de baixa impedância para garantir geração de calor zero (não-térmica, 0.0W) no tecido cerebral durante o disparo massivo de estímulos.
 
 ​Endereçamento de Matriz: Sistema de coordenadas numéricas individuais (IDs) para cada hexágono, controlados por um barramento lógico síncrono.
 
